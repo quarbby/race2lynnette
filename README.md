@@ -1,0 +1,1 @@
+This is the code for race 2 for COMP1010 Robotics. This code makes use of sensors and motor encoders to guide the robot through the unseen maze. It is a modified wall-following code.
